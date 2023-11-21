@@ -1,0 +1,35 @@
+Aug 29 2022 02:23:48 10.180.81.17  Load balancing issues
+Aug 29 2022 04:22:55 10.176.141.206  Social engineering attacks
+Aug 29 2022 04:26:41 10.220.97.37  Social engineering attacks
+Aug 29 2022 04:32:03 10.51.36.247  Application error
+Aug 29 2022 05:43:55 10.78.61.234  Human error
+Aug 29 2022 07:57:26 10.120.112.204  Security breaches
+Aug 29 2022 13:26:30 10.194.99.8  SQL injection
+Aug 29 2022 17:30:35 10.173.110.6  Weak or easily guessable passwords
+Aug 29 2022 17:42:40 10.23.204.125  SQL injection
+Aug 29 2022 18:25:18 10.125.202.27  Application error
+Aug 29 2022 19:53:36 10.253.236.157  Human error
+Aug 29 2022 22:51:40 10.187.149.191  Unencrypted communication
+Aug 29 2022 23:21:59 10.67.184.144  Broken authentication and session management
+Aug 29 2022 23:25:23 10.11.173.146  SQL injection
+Aug 30 2022 00:09:31 10.19.72.124  SQL injection
+Aug 30 2022 01:01:59 10.55.39.173  Broken authentication and session management
+Aug 30 2022 01:13:42 10.59.50.204  Load balancing issues
+Aug 30 2022 02:15:30 10.141.166.171  Load balancing issues
+Aug 30 2022 03:21:15 10.227.108.148  Human error
+Aug 30 2022 03:40:57 10.55.141.202  Load balancing issues
+Aug 30 2022 04:55:34 10.180.175.208  Application error
+Aug 30 2022 05:35:50 10.80.132.184  Weak or easily guessable passwords
+Aug 30 2022 06:46:41 10.54.21.93  Social engineering attacks
+Aug 30 2022 07:21:30 10.104.223.171  Configuration errors
+Aug 30 2022 07:24:36 10.182.245.183  Data corruption
+Aug 30 2022 08:01:27 10.29.38.216  Broken authentication and session management
+Aug 30 2022 08:51:49 10.181.212.13  Security breaches
+Aug 30 2022 08:54:36 10.51.132.156  Human error
+Aug 30 2022 10:38:36 10.81.198.17  SQL injection
+Aug 30 2022 12:28:35 10.47.206.241  Network connectivity issues
+Aug 30 2022 15:35:07 10.151.238.51  Broken authentication and session management
+Aug 30 2022 18:04:47 10.194.124.152  Security breaches
+Aug 30 2022 18:35:31 10.151.214.40  SQL injection
+Aug 30 2022 19:58:25 10.160.228.228  Network connectivity issues
+Aug 30 2022 21:26:18 10.68.220.243  Network connectivity issues
